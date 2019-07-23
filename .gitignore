@@ -19,6 +19,7 @@ gradle-app.setting
 ### Example user template
 
 # IntelliJ project files
+workspace.xml
 .idea
 *.iml
 out
