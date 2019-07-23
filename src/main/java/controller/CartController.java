@@ -2,9 +2,14 @@ package controller;
 
 public class CartController {
 
-  String age;
+  String cartName;
 
-  public CartController(String age) {
-    this.age = age;
+  public String getCartName() {
+    return cartName;
   }
+
+  public void setCartName(String cartName) {
+    this.cartName = cartName;
+  }
+
 }
