@@ -21,6 +21,7 @@ gradle-app.setting
 # IntelliJ project files
 .idea
 *.iml
+workspace.xml
 out
 gen
 ### Java template
