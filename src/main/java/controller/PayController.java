@@ -2,13 +2,7 @@ package controller;
 
 public class PayController {
 
-  private String orderName;
+  static {
 
-  public String getOrderName() {
-    return orderName;
-  }
-
-  public void setOrderName(String orderName) {
-    this.orderName = orderName;
   }
 }
