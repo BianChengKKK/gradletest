@@ -4,16 +4,6 @@ public class CartController {
 
   String cartName;
 
-  String price;
-
-  public String getPrice() {
-    return price;
-  }
-
-  public void setPrice(String price) {
-    this.price = price;
-  }
-
   public String getCartName() {
     return cartName;
   }
