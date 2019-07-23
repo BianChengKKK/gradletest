@@ -19,9 +19,9 @@ gradle-app.setting
 ### Example user template
 
 # IntelliJ project files
+workspace.xml
 .idea
 *.iml
-workspace.xml
 out
 gen
 ### Java template
